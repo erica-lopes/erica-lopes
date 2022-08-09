@@ -1,8 +1,11 @@
-
+<div align="center">
+  <h2> Hi, I'm Erica Lopes! <img src="https://media.giphy.com/media/97o71aak12UEZ9uKmv/giphy.gif" width="80"></h2>
+  <p>Welcome to my profile! I'm a student, aspiring coder. I am current studing Full Stack developement  in @Kenzie-Academy-Brasil. Thanks for visiting and I'd love to connect!</p>
+</div><br>
 
 <div align="center">
   <a href="https://github.com/erica-lopes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erica-lopes&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=erica-lopes&show_icons=true&theme=synthwave&include_all_commits=true&    count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erica-lopes&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
