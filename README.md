@@ -5,7 +5,7 @@
   <a href="mailto:ericalopes@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.behance.net/lopeserica" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 
- <p>Welcome to my profile! I'm a student coder. I am current studing Full Stack developement in @Kenzie-Academy-Brasil;  in addition to programming, I have a degree in business administration and worked for 9 years as a graphic designer. Currently learning Python and Django, seeking more knowledge through bootcamps and other courses. Thanks for visiting and I'd love to connect! 
+ <p>Welcome to my profile! I'm a student coder. Current studing Full Stack developement in @Kenzie-Academy-Brasil;  in addition to programming, I have a degree in business administration and worked for 9 years as a graphic designer. Currently learning Python and Django, seeking more knowledge through bootcamps and other courses. Thanks for visiting and I'd love to connect! 
 </p>
 
   ![Snake animation](https://github.com/erica-lopes/erica-lopes/blob/output/github-contribution-grid-snake.svg)
